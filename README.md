@@ -67,3 +67,16 @@ evidence/           Use-case notes
 publications/       Research references
 references/         Bibliography
 use-cases/          Enterprise examples
+
+```
+
+## Start Here
+
+1. Read the framework overview.
+2. Review the platform strategy, governance, and internal developer platform docs.
+3. Use the assessment template and scorecards to evaluate current state.
+4. Expand maturity, dashboards, and roadmap content next.
+
+## Core Content
+
+- [Platform Operating Map](operating-models/platform-operating-map.md)
