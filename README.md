@@ -21,13 +21,13 @@ The framework focuses on internal developer platforms, engineering enablement, o
 
 The framework helps organizations:
 
-- Improve engineering productivity
-- Standardize platform operations
-- Improve developer experience
-- Accelerate cloud adoption
-- Strengthen reliability engineering
-- Improve governance consistency
-- Enable scalable platform operations
+- improve engineering productivity
+- standardize platform operations
+- improve developer experience
+- accelerate cloud adoption
+- strengthen reliability engineering
+- improve governance consistency
+- enable scalable platform operations
 
 ## Framework Components
 
@@ -40,18 +40,13 @@ The framework helps organizations:
 7. Engineering Productivity Metrics
 8. Executive Reporting
 
-## Enterprise Context
+## How To Use This Repo
 
-This repository combines enterprise cloud governance, SRE, observability, and operational resilience practices into scalable platform engineering models.
-
-The framework is intended for:
-
-- Enterprise platform teams
-- SRE organizations
-- Cloud engineering teams
-- Enterprise architects
-- Platform governance leaders
-- Transformation programs
+1. Read the framework overview and platform strategy.
+2. Review the governance, self-service, and IDP docs.
+3. Use the scorecards and assessment template to review current maturity.
+4. Apply the roadmap and operating models to plan improvements.
+5. Reassess using the maturity model and dashboard cadence.
 
 ## Repository Structure
 
@@ -59,24 +54,21 @@ The framework is intended for:
 docs/               Framework documentation
 operating-models/   Platform operating models
 templates/          Platform review templates
-maturity-model/     Platform engineering maturity
+maturity-model/      Platform engineering maturity
 scorecards/         Platform KPI scorecards
 dashboards/         Operational dashboard examples
-diagrams/           Architecture visuals
 evidence/           Use-case notes
 publications/       Research references
 references/         Bibliography
-use-cases/          Enterprise examples
-
 ```
-
-## Start Here
-
-1. Read the framework overview.
-2. Review the platform strategy, governance, and internal developer platform docs.
-3. Use the assessment template and scorecards to evaluate current state.
-4. Expand maturity, dashboards, and roadmap content next.
 
 ## Core Content
 
 - [Platform Operating Map](operating-models/platform-operating-map.md)
+- [Framework Overview](docs/framework-overview.md)
+- [Platform Engineering Strategy](docs/platform-engineering-strategy.md)
+- [Platform Governance](docs/platform-governance.md)
+- [Internal Developer Platforms](docs/internal-developer-platforms.md)
+- [Self-Service Engineering](docs/self-service-engineering.md)
+- [Developer Experience](docs/developer-experience.md)
+- [Platform Observability](docs/platform-observability.md)
