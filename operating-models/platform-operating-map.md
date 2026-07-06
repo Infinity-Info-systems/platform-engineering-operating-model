@@ -12,9 +12,11 @@ The operating map shows the main platform services, how they interact, and who o
 - observability
 - governance
 - roadmap management
+- intake and prioritization
 
 ## Use
 
 - map platform capabilities to owners
 - identify gaps in service coverage
 - make the operating model visible to stakeholders
+- use the map as the shared reference for platform scope and ownership

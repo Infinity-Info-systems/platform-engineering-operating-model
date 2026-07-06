@@ -12,6 +12,8 @@ Internal developer platforms provide the curated platform capabilities that make
 - policy automation
 - observability integration
 - runtime support
+- guardrailed self-service
+- service discovery
 
 ## Design Guidance
 
@@ -26,3 +28,7 @@ Internal developer platforms provide the curated platform capabilities that make
 - onboarding flow
 - template usage
 - automation coverage
+
+## Design Goal
+
+The platform should make the common path easy and the risky path visible.

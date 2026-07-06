@@ -11,6 +11,8 @@ Self-service engineering lets teams provision and operate approved platform capa
 - policy-backed workflows
 - documented approval paths
 - automated guardrails
+- reusable golden paths
+- standardized request flows
 
 ## Review Questions
 
@@ -25,3 +27,7 @@ Self-service engineering lets teams provision and operate approved platform capa
 - automation coverage
 - request turnaround times
 - exceptions and escalations
+
+## Use
+
+Use this page to show how much engineering work can be done without waiting on manual platform intervention.

@@ -11,6 +11,8 @@ Platform observability ensures platform teams can see service health, workflow h
 - platform reliability
 - request bottlenecks
 - service usage trends
+- self-service success rate
+- automation failure modes
 
 ## Review Questions
 
@@ -25,3 +27,7 @@ Platform observability ensures platform teams can see service health, workflow h
 - alert rules
 - incident logs
 - service metrics
+
+## Practical Value
+
+Observability should help the platform team see where users get stuck and where automation needs improvement.

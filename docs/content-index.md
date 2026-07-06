@@ -3,6 +3,7 @@
 ## Purpose
 
 This index organizes the repo into a front door for platform engineering strategy, operating models, and governance.
+Use it to get from platform strategy to a practical operating view quickly.
 
 ## Entry Points
 
@@ -33,6 +34,15 @@ This index organizes the repo into a front door for platform engineering strateg
 - [Platform Assessment Template](../templates/platform-assessment-template.md)
 - [Platform Roadmap Template](../templates/platform-roadmap-template.md)
 
+## Reading Order
+
+1. Framework overview
+2. Platform strategy
+3. Platform governance
+4. Internal developer platforms
+5. Self-service engineering
+6. Scorecards and roadmap
+
 ## References
 
 - [Bibliography](../references/bibliography.md)
@@ -42,4 +52,4 @@ This index organizes the repo into a front door for platform engineering strateg
 ## Shared Direction
 
 Use the same section structure as the other core repos so the ecosystem remains consistent and easy to grow.
-
+Keep the writing practical enough for platform teams and clear enough for leadership review.

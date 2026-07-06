@@ -11,6 +11,8 @@ The strategy defines how the platform will improve delivery speed, standardizati
 - developer self-service
 - operational resilience
 - measurable productivity
+- friction reduction
+- service discoverability
 
 ## Strategy Questions
 
@@ -25,3 +27,7 @@ The strategy defines how the platform will improve delivery speed, standardizati
 - service catalog priorities
 - investment themes
 - success metrics
+
+## Strategy Rule
+
+If the platform does not make delivery easier, safer, or more repeatable, it is not delivering enough value.

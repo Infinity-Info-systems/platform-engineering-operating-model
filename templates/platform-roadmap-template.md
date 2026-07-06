@@ -14,3 +14,4 @@ Describe the platform vision and the main workstreams.
 
 - include dependencies
 - keep milestones measurable
+- show what improves user experience and platform safety

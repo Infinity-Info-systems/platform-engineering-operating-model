@@ -29,3 +29,7 @@
 - platform improvements are data-driven
 - automation is broad
 - the platform is managed as a product
+
+## Use Guidance
+
+Use this maturity model to decide whether the platform is ready to scale or still needs foundational work in governance, self-service, and observability.

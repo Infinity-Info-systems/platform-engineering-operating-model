@@ -11,6 +11,8 @@ Developer experience measures how easy it is for teams to discover, use, and tru
 - workflow clarity
 - feedback loops
 - support responsiveness
+- service discoverability
+- platform trust
 
 ## Signals To Watch
 
@@ -25,3 +27,7 @@ Developer experience measures how easy it is for teams to discover, use, and tru
 - developer surveys
 - support metrics
 - platform usage data
+
+## Outcome
+
+Developer experience should be measured by how quickly teams can get productive, not just by how polished the platform appears.

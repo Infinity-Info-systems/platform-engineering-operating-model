@@ -11,6 +11,8 @@ Platform governance defines how standards, exceptions, service boundaries, and i
 - publish standards for platform consumption
 - define ownership for every platform service
 - keep roadmap decisions visible
+- keep review decisions simple and time-bound
+- manage platform change as a visible backlog
 
 ## Governance Questions
 
@@ -25,3 +27,7 @@ Platform governance defines how standards, exceptions, service boundaries, and i
 - exception log
 - review notes
 - standards documentation
+
+## Governance Outcome
+
+Good governance should help the platform move faster with fewer surprises, not slow it down with hidden approvals.

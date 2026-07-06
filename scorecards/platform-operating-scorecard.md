@@ -11,6 +11,12 @@ Measure how well the platform operates as a repeatable, supportable service.
 - support responsiveness
 - governance clarity
 - observability
+- request success rate
+- platform adoption
+
+## Use
+
+Use this scorecard to summarize how effectively the platform operates as a repeatable service.
 
 ## Example Scale
 

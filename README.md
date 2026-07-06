@@ -5,6 +5,7 @@
 This repository presents a Platform Engineering Operating Model for enterprise cloud and digital platforms.
 
 The framework focuses on internal developer platforms, engineering enablement, operational scalability, self-service engineering, observability integration, governance, and reliability engineering practices.
+It is designed to help teams run the platform as a product with measurable outcomes.
 
 ## Core Areas
 
@@ -16,6 +17,8 @@ The framework focuses on internal developer platforms, engineering enablement, o
 - Reliability engineering
 - Platform governance
 - Operational scalability
+- Platform product management
+- Developer self-service
 
 ## Objectives
 
@@ -28,6 +31,16 @@ The framework helps organizations:
 - strengthen reliability engineering
 - improve governance consistency
 - enable scalable platform operations
+- reduce friction in common engineering workflows
+- make platform value visible to stakeholders
+
+## Content Model
+
+This repository works best when pages are grouped into three layers:
+
+- strategy and framework pages
+- operating model and governance pages
+- templates, scorecards, and dashboards
 
 ## Framework Components
 
@@ -47,6 +60,7 @@ The framework helps organizations:
 3. Use the scorecards and assessment template to review current maturity.
 4. Apply the roadmap and operating models to plan improvements.
 5. Reassess using the maturity model and dashboard cadence.
+6. Keep the platform language consistent across all artifacts.
 
 ## Repository Structure
 
@@ -72,3 +86,14 @@ references/         Bibliography
 - [Self-Service Engineering](docs/self-service-engineering.md)
 - [Developer Experience](docs/developer-experience.md)
 - [Platform Observability](docs/platform-observability.md)
+- [Platform Engineering Maturity](maturity-model/platform-engineering-maturity.md)
+- [Platform Operating Scorecard](scorecards/platform-operating-scorecard.md)
+- [Developer Experience Scorecard](scorecards/developer-experience-scorecard.md)
+- [Platform KPI Dashboard](dashboards/platform-kpi-dashboard.md)
+- [Platform Roadmap Template](templates/platform-roadmap-template.md)
+- [Platform Assessment Template](templates/platform-assessment-template.md)
+- [Developer Experience Review](templates/developer-experience-review.md)
+
+## Operating Principle
+
+The platform should remove common delivery friction, standardize good practices, and make the right path easy to discover and use.

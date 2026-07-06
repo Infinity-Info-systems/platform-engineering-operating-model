@@ -11,6 +11,12 @@ Measure how easy it is for engineers to use the platform successfully.
 - workflow clarity
 - support experience
 - feedback loop quality
+- platform trust
+- service discoverability
+
+## Use
+
+Use this scorecard to show whether the platform is easy to adopt, easy to understand, and easy to trust.
 
 ## Example Scale
 

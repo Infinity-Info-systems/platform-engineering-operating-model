@@ -3,6 +3,7 @@
 ## What This Repository Does
 
 This repository provides a practical operating model for building and scaling internal platform capabilities that serve engineering teams.
+It treats the platform as a product with users, services, and measurable outcomes.
 
 ## What It Covers
 
@@ -28,6 +29,8 @@ This repository provides a practical operating model for building and scaling in
 - governance reduces friction instead of adding it
 - observability supports both operations and platform improvement
 - metrics guide platform investment decisions
+- platform users can self-serve common needs with confidence
+- platform ownership is explicit
 
 ## Outputs
 
@@ -36,3 +39,7 @@ This repository provides a practical operating model for building and scaling in
 - governance model
 - maturity scorecard
 - roadmap template
+
+## Practical Use
+
+Use this framework when you need to explain how the platform should be structured, operated, and improved over time.
