@@ -4,6 +4,7 @@
 
 This index organizes the repo into a front door for platform engineering strategy, operating models, and governance.
 Use it to get from platform strategy to a practical operating view quickly.
+The page order is designed to move from strategy into governance and then into the reusable operating assets.
 
 ## Entry Points
 
@@ -53,3 +54,4 @@ Use it to get from platform strategy to a practical operating view quickly.
 
 Use the same section structure as the other core repos so the ecosystem remains consistent and easy to grow.
 Keep the writing practical enough for platform teams and clear enough for leadership review.
+If a page does not help set standards, resolve exceptions, or improve platform use, move the detail into a more specific artifact.
