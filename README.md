@@ -7,6 +7,7 @@ This repository presents a Platform Engineering Operating Model for enterprise c
 The framework focuses on internal developer platforms, engineering enablement, operational scalability, self-service engineering, observability integration, governance, and reliability engineering practices.
 It is designed to help teams run the platform as a product with measurable outcomes.
 The objective is to make the platform easier to use, easier to govern, and easier to improve without slowing engineering delivery.
+The repository should also be easy to reference from the parent MCGR page so the platform library is visible as part of the larger ecosystem.
 
 ## Core Areas
 
@@ -37,6 +38,13 @@ The framework helps organizations:
 - reduce time lost to manual platform requests
 - create a consistent platform decision path
 - connect platform work to measurable business outcomes
+
+## Where This Fits In The Ecosystem
+
+- [MCGR Framework](../MCGR-Framework/README.md)
+- [MCGR Public Page](../MCGR-Framework/README.md#featured-research-spotlight)
+- [Enterprise Architecture Blueprints](../enterprise-architecture-blueprints/README.md)
+- [Cloud Governance Assessment Toolkit](../cloud-governance-assessment-toolkit/README.md)
 
 ## Content Model
 
@@ -103,6 +111,16 @@ references/         Bibliography
 
 The platform should remove common delivery friction, standardize good practices, and make the right path easy to discover and use.
 If a platform policy makes delivery harder without reducing risk or improving consistency, it should be redesigned.
+
+## Quick View
+
+| Platform Area | What It Standardizes | Typical Outcome |
+| --- | --- | --- |
+| Service catalog | What the platform offers | Clear consumption path |
+| Self-service | What teams can do themselves | Less manual request load |
+| Governance | What requires review | Faster, clearer approvals |
+| Observability | What gets measured | Better platform feedback |
+| Roadmap | What gets improved next | Visible platform evolution |
 
 ## Executive Takeaway
 

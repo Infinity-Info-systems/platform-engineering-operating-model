@@ -5,6 +5,7 @@
 This repository provides a practical operating model for building and scaling internal platform capabilities that serve engineering teams.
 It treats the platform as a product with users, services, and measurable outcomes.
 That means the platform must be usable, observable, and governable as it grows.
+The framework is also intended to make the platform story easy to show from the parent MCGR page and related ecosystem pages.
 
 ## What It Covers
 
@@ -32,6 +33,15 @@ That means the platform must be usable, observable, and governable as it grows.
 - metrics guide platform investment decisions
 - platform users can self-serve common needs with confidence
 - platform ownership is explicit
+
+## How To Read It
+
+Start with the strategy page, then move into governance and operating model content.
+That sequence keeps the focus on platform behavior first and supporting artifacts second.
+
+## Result
+
+The framework helps teams make platform decisions that improve delivery speed without losing control.
 
 ## How To Read It
 

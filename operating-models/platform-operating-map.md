@@ -14,12 +14,27 @@ The operating map shows the main platform services, how they interact, and who o
 - roadmap management
 - intake and prioritization
 
+## Figure
+
+```mermaid
+flowchart LR
+  A[Strategy] --> B[Service Catalog]
+  B --> C[Self-Service]
+  C --> D[Governance]
+  D --> E[Observability]
+  E --> F[Roadmap]
+```
+
 ## Use
 
 - map platform capabilities to owners
 - identify gaps in service coverage
 - make the operating model visible to stakeholders
 - use the map as the shared reference for platform scope and ownership
+
+## Outcome
+
+The operating map makes it easier to see how teams use the platform and where the platform should improve next.
 # Platform Operating Map
 
 ## Purpose
