@@ -5,7 +5,17 @@
 This index organizes the repo into a front door for platform engineering strategy, operating models, and governance.
 Use it to get from platform strategy to a practical operating view quickly.
 The page order is designed to move from strategy into governance and then into the reusable operating assets.
-The page order is designed to move from strategy into governance and then into the reusable operating assets.
+
+## Recommended Reading Path
+
+| Step | Page | Why |
+| --- | --- | --- |
+| 1 | Framework Overview | Understand the platform operating model |
+| 2 | Platform Strategy | Align on intent and scope |
+| 3 | Platform Governance | Review controls and review paths |
+| 4 | Internal Developer Platforms | See the service model |
+| 5 | Self-Service Engineering | Define team autonomy |
+| 6 | Scorecards and roadmap | Measure and improve the platform |
 
 ## Entry Points
 
@@ -56,4 +66,12 @@ The page order is designed to move from strategy into governance and then into t
 Use the same section structure as the other core repos so the ecosystem remains consistent and easy to grow.
 Keep the writing practical enough for platform teams and clear enough for leadership review.
 If a page does not help set standards, resolve exceptions, or improve platform use, move the detail into a more specific artifact.
-If a page does not help set standards, resolve exceptions, or improve platform use, move the detail into a more specific artifact.
+
+## Shortcut View
+
+| Need | Best Starting Point |
+| --- | --- |
+| Define the platform | Platform Engineering Strategy |
+| Review governance | Platform Governance |
+| Understand service ownership | Platform Operating Map |
+| Measure platform value | Platform KPI Dashboard |

@@ -35,24 +35,17 @@ flowchart LR
 ## Outcome
 
 The operating map makes it easier to see how teams use the platform and where the platform should improve next.
-# Platform Operating Map
 
-## Purpose
+## Operating Table
 
-This map shows how platform strategy becomes services, standards, and team interactions.
+| Area | Owner | Output |
+| --- | --- | --- |
+| Strategy | Platform leadership | Platform direction |
+| Service catalog | Platform team | Published services |
+| Self-service | Product/platform team | Self-service workflows |
+| Governance | Architecture or control owner | Review path and exceptions |
+| Observability | Platform operations | KPI and telemetry view |
 
-## Operating View
+## Operating Rule
 
-- define the platform service catalog
-- define self-service boundaries
-- route exceptions through a clear review path
-- measure the experience through KPIs
-- feed improvements back into the roadmap
-
-## Use
-
-Use this map to explain how the platform actually works day to day.
-
-## Outcome
-
-The operating map makes it easier to see how teams use the platform and where the platform should improve next.
+Platform work should only be treated as mature when teams can see the service, use it without escalation, and measure whether it actually helped.
