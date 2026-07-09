@@ -1,2 +1,2 @@
-export * from "./platformRegistry";
-export * from "./platformReport";
+export * from './platformRegistry';
+export * from './platformReport';

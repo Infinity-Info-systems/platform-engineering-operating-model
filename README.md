@@ -136,3 +136,8 @@ It helps answer:
 - use `src/` as the platform service catalog and report layer
 - keep the Markdown docs as the operating model and narrative layer
 - use the registry outputs to support dashboards or a future platform console
+
+## Code Direction
+
+This repo now includes a typed platform registry in `src/` so services, metrics, and governance rules can be reused in tools or future app pages.
+The code layer mirrors the strategy, service model, self-service, control, and measurement flow described in the framework pages.
