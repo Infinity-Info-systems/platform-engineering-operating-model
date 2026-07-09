@@ -130,3 +130,9 @@ It helps answer:
 - What should the platform standardize?
 - What should teams self-serve?
 - How do we measure platform value?
+
+## Codebase Direction
+
+- use `src/` as the platform service catalog and report layer
+- keep the Markdown docs as the operating model and narrative layer
+- use the registry outputs to support dashboards or a future platform console
